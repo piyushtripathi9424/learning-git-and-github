@@ -1,4 +1,4 @@
-# learning-git-and-github
+# LEARNING-GIT-AND-GITHUB
 <h1>JAVASCRIPT METHODS</h1>
 <p>MAP</p>
 <p>FILTER</p>
