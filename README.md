@@ -4,3 +4,4 @@
 <p>FILTER</p>
 <p>REDUCE</p>
 <p>PUSH</p>
+<p>POP</p>
