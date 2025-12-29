@@ -3,3 +3,4 @@
 <p>MAP</p>
 <p>FILTER</p>
 <p>REDUCE</p>
+<p>PUSH</p>
